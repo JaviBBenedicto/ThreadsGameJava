@@ -7,3 +7,5 @@ This is a game made with Java, which recreates a grand prix motorbike race.
 In this game the user can create up to a maximum of four motorbikes, each with its own speed and total track distance.
 
 When the game starts, progress bars will show the progress of each bike in the race as well as the total distance travelled and the percentage of the circuit covered.
+
+When one of the bikes completes the circuit, it will be the winner.
