@@ -10,4 +10,4 @@ When the game starts, progress bars will show the progress of each bike in the r
 
 When one of the bikes completes the circuit, it will be the winner.
 
-**In this application you can see the use of JavaFX and threaded programming.**
+**In this application you can see the use of JavaFX and thread programming.**
